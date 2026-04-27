@@ -29,3 +29,5 @@ claude
 
 Resztę zrobimy razem w kursie!
 Playlista do kursu: [link](https://youtube.com/playlist?list=PLVmtgMuu5q6K3KX9oZ_c2mxkVLFS9JmKq&si=Um2fPtMmZEogsJoy)
+
+## Moja zmiana
